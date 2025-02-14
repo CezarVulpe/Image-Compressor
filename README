@@ -1,0 +1,11 @@
+"Task1
+Partea cea mai grea a fost familiarizarea cu noul format de fisire si citirea din acesta. In uma valorificarii informatiilor
+din fisierul poza, obtinem o matrice de pixeli. Pentru a construi arborele, am creeat o functie recursiva ce are in antet
+coordonatele corespunzatoare nodului in matrice. Se parcurge arborele si se afiseaza cerintele de la task 1
+Task2
+Am creeat o coada ce lucreaza direc cu adresele nodurilor din arbore.Astfel, se introduc noduri in cooada, urmand a fi
+scoase cu ajutorul functiei pop spre a le afisa.
+Task3
+Takul 3 a reprezentat o reuniune de task1 si task 2 realizat in ordine inversa. Am reutilizat functiile de la primele 2
+taskuri schimband unele aspecte(mai intai citesc coada si apoi fac arborele(task 2 inversat) si apoi umplu o matrice
+cu informatiile din arbore(task 1 inversat)) Taskul 3 a fost cel mai scurt task"
